@@ -56,5 +56,11 @@ docker run -p 8000:8000 devops-api
 - Health check endpoint for monitoring
 - Git & GitHub version control
 
+## Screenshots
+
+![Swagger UI](screenshots/swagger-ui.png)
+![Docker PS](screenshots/docker-ps.png)
+
+
 
 
